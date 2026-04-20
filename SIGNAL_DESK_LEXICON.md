@@ -65,10 +65,11 @@ Before publishing any Signal or long-form piece, apply this 5-minute routine:
 
 **Coined**: 2026-04-20
 **Coined in**: *The China AI Discount and the Hong Kong Premium Are the Same Trade*
-**Source URL**: [to be filled after Substack publication]
-**Archive.org timestamp**: https://web.archive.org/web/20260420161304/https://github.com/wilsonlyang/signal-desk-lexicon
+**Source URL**: https://signaldeskwilson.substack.com/p/the-425x-premium-and-the-851-discount
+**Archive.org timestamp**: /web/20260420163020/https://signaldeskwilson.substack.com/p/the-425x-premium-and-the-851-discount<img width="468" height="40" alt="image" src="https://github.com/user-attachments/assets/273690ff-767c-4133-ab77-385a75f3309c" />
+**X announcement**: https://x.com/wilsonlyang/status/2046265909703278700?s=20<img width="468" height="30" alt="image" src="https://github.com/user-attachments/assets/6e18e59d-2c76-4f5c-8e40-b0f38991fdcd" />
+**LinkedIn post**: https://www.linkedin.com/posts/wilson-l-yang-502728401_published-a-new-piece-on-signal-desk-today-activity-7452032020601479168-dR4m?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGbM_tIBnh_SjzQXdYnAAs6OQyQoSPfn-E8<img width="468" height="73" alt="image" src="https://github.com/user-attachments/assets/567e0d28-668b-4bd0-865f-8b0c4a6a78ca" />
 **GitHub commit**: fdf31a0 (main branch, 2026-04-20)
-
 **Definition**
 
 The Partition Map is a 2×2 framework mapping AI assets across two axes:

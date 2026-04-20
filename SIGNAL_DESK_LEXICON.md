@@ -133,7 +133,7 @@ Example sentences:
 - "The China Discount on DeepSeek is now 85:1 — and the term sheet confirms it."
 - "Any framework for Chinese AI valuation must account for the China Discount as a structural feature, not a temporary dislocation."
 
-**External citations tracker**: [to be updated]
+**External citations tracker**: https://signaldeskwilson.substack.com/p/the-425x-premium-and-the-851-discount
 
 ---
 
@@ -169,7 +169,7 @@ Example sentences:
 - "The Capability–Price Decoupling is not unique to AI — the same pattern appears in EV and robotics."
 - "If you see Capability Convergence without Price Convergence, a partition is operating."
 
-**External citations tracker**: [to be updated]
+**External citations tracker**: https://signaldeskwilson.substack.com/p/the-425x-premium-and-the-851-discount
 
 ---
 

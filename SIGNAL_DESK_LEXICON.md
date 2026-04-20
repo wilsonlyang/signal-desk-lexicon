@@ -66,9 +66,8 @@ Before publishing any Signal or long-form piece, apply this 5-minute routine:
 **Coined**: 2026-04-20
 **Coined in**: *The China AI Discount and the Hong Kong Premium Are the Same Trade*
 **Source URL**: [to be filled after Substack publication]
-**Archive.org timestamp**: [to be filled after archive.org submission]
-**OpenTimestamps proof**: [to be filled if using]
-**GitHub commit**: [to be filled after first commit]
+**Archive.org timestamp**: https://web.archive.org/web/20260420161304/https://github.com/wilsonlyang/signal-desk-lexicon
+**GitHub commit**: fdf31a0 (main branch, 2026-04-20)
 
 **Definition**
 

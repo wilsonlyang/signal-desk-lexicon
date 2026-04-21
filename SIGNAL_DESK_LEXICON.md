@@ -1,5 +1,5 @@
 Signal Desk Lexicon
-Version: v0.2 · Updated 2026-04-20
+Version: v0.3 · Updated 2026-04-21
 Owner: Wilson L Yang
 Publication: Signal Desk · signaldeskwilson.substack.com
 Purpose: Official registry of concepts and terminology coined by Signal Desk.
@@ -60,19 +60,23 @@ Category: Capital × Global-meets-China
 Status: Flagship concept
 Coined: 2026-04-20
 Coined in: The 425x Premium and the 85:1 Discount Are the Same Trade
-Three-Search Verification (2026-04-20):
+Formalised in academic form: SSRN working paper "The 425× Premium and the 85:1 Discount Are the Same Trade: A Partition Framework for Pricing Chinese AI Equity Across Private and Public Markets" (Wilson L Yang, 2026-04-21)
+Three-Search Verification (2026-04-20, re-verified 2026-04-21):
 
 Primary: "Partition Map" finance capital markets framework → no relevant prominent use; closest adjacents are "Multilayer Map of the Financial System" (OFR 2016) and "Graham's MAP framework" (municipal infrastructure) — both distinct
 Adjacent: "Partition Map" real estate appraisal valuation → real estate uses "partition action" / "partition by appraisal", not "partition map" — clean
 Variant: "Scarcity Bubble" OR "Signal Desk" Partition Map AI valuation → no prior occupation
 Disposition: ✅ CLEAN
+Re-verification record: see Verification Evidence Packet (private), 2026-04-21
 
 Timestamp Chain:
 
-Source URL: https://signaldeskwilson.substack.com/p/the-425x-premium-and-the-851-discount
+Source URL (Substack): https://signaldeskwilson.substack.com/p/the-425x-premium-and-the-851-discount
 Archive.org (article): https://web.archive.org/web/20260420163020/https://signaldeskwilson.substack.com/p/the-425x-premium-and-the-851-discount
 Archive.org (repo): https://web.archive.org/web/20260420161304/https://github.com/wilsonlyang/signal-desk-lexicon
 GitHub commit (registry establishment): fdf31a0
+GitHub commit (v0.3, Paper 1 SSRN context): [to be filled after this commit]
+SSRN working paper DOI: [to be added after SSRN submission approval, expected 2-5 business days from 2026-04-21]
 X announcement: [user to fill — @wilsonlyang tweet URL, ~2026-04-20 16:xx UTC]
 LinkedIn post: [user to fill — linkedin.com/feed/update/... URL]
 
@@ -82,7 +86,8 @@ The Partition Map is a 2×2 framework mapping AI assets across two axes:
 Market type: private vs. public
 Buyer nationality: global capital vs. China-connected capital
 
-The framework produces four quadrants, each with independent pricing logic and a distinct buyer base. A single underlying asset class — Chinese AI equity — can trade at extreme discounts in one quadrant while trading at extreme premia in another, without contradiction. The same structural event that creates one creates the other.
+The framework produces four quadrants, each with independent pricing logic and a distinct buyer base.
+A single underlying asset class — Chinese AI equity — can trade at extreme discounts in one quadrant while trading at extreme premia in another, without contradiction. The same structural event that creates one creates the other.
 Core insight: Prices that look irreconcilable are actually internally consistent once you map which quadrant is doing the pricing.
 Canonical application: Explaining why DeepSeek is valued at $10B (85:1 discount vs OpenAI) in private markets while MiniMax trades at 425x sales in Hong Kong — simultaneously.
 Word family:
@@ -115,19 +120,23 @@ Category: Capital × Global-meets-China
 Status: Coined term within the Partition Map word family
 Coined: 2026-04-20
 Coined in: Signal Desk Lexicon v0.2 (documenting the mechanism described in The 425x Premium and the 85:1 Discount Are the Same Trade)
-Three-Search Verification (2026-04-20):
+Formalised in academic form: SSRN working paper (Wilson L Yang, 2026-04-21), Sections 5.1–5.2
+Three-Search Verification (2026-04-20, re-verified 2026-04-21):
 
 Primary: "Mandate Discount" finance valuation → no prominent prior use; results are discussions of "discount rate" and "investment mandate" as separate concepts
 Adjacent: "mandate discount" OR "mandate-driven discount" stocks equity → no prior coinage; adjacent terms ("fee discount in mandates", "discount for lack of marketability") cover unrelated concepts
 Variant: "LP mandate discount" institutional → no occupied phrasing
 Disposition: ✅ CLEAN
+Re-verification record: see Verification Evidence Packet (private), 2026-04-21
 
 Timestamp Chain:
 
 Source URL (registry): https://github.com/wilsonlyang/signal-desk-lexicon/blob/main/SIGNAL_DESK_LEXICON.md
-GitHub commit (coinage): [to be filled after this commit]
+GitHub commit (coinage): [to be filled — commit hash of v0.2 entry]
+GitHub commit (v0.3, Paper 1 SSRN context): [to be filled after this commit]
 Archive.org (registry): [to be filled after archive submission]
 Article context: https://signaldeskwilson.substack.com/p/the-425x-premium-and-the-851-discount (the mechanism is described here, though the specific term "Mandate Discount" is formalized in this Lexicon entry)
+SSRN working paper DOI: [to be added after SSRN submission approval, expected 2-5 business days from 2026-04-21]
 
 Definition
 The Mandate Discount is the structural valuation discount applied to a class of assets because the dominant capital pool pricing that asset class operates under mandate constraints — LP agreements, fiduciary rules, regulatory restrictions — that limit or exclude holding the assets, independent of their technical or commercial quality.
@@ -164,24 +173,29 @@ Category: Capital × Tech × Global-meets-China
 Status: Cross-cutting framework; applies beyond AI
 Coined: 2026-04-20
 Coined in: Signal Desk Lexicon v0.1 (foundational logic underlying The 425x Premium and the 85:1 Discount Are the Same Trade)
-Three-Search Verification (2026-04-20):
+Formalised in academic form: SSRN working paper (Wilson L Yang, 2026-04-21), Section 6
+Three-Search Verification (2026-04-20, re-verified 2026-04-21):
 
 Primary: "Capability-Price Decoupling" (exact compound) → no prior use
 Adjacent: Variations on "decoupling" in finance (US/EM decoupling, energy decoupling, transaction decoupling) cover different concepts; the specific capability-price compound is unoccupied
 Disposition: ✅ CLEAN
+Re-verification record: see Verification Evidence Packet (private), 2026-04-21
 
 Timestamp Chain:
 
 Source URL (registry): https://github.com/wilsonlyang/signal-desk-lexicon/blob/main/SIGNAL_DESK_LEXICON.md
 GitHub commit (coinage): fdf31a0 (Lexicon v0.1)
+GitHub commit (v0.3, Paper 1 SSRN context): [to be filled after this commit]
 Archive.org (registry): https://web.archive.org/web/20260420161304/https://github.com/wilsonlyang/signal-desk-lexicon
 Article context: https://signaldeskwilson.substack.com/p/the-425x-premium-and-the-851-discount
+SSRN working paper DOI: [to be added after SSRN submission approval, expected 2-5 business days from 2026-04-21]
 
 Definition
 A structural pattern where the technical capability gap between two groups of firms is converging toward zero, while the market price differential between them is diverging — moving in opposite directions simultaneously.
 The Capability-Price Decoupling is the underlying anomaly that makes the Partition Map necessary. If capability and price moved together, partition-based pricing would not produce persistent mispricing. They don't — which is why the Partition exists as a pricing regime rather than a transient dislocation.
 Canonical application: In April 2026, Chinese frontier AI labs sit 2.7 points behind US labs on Stanford AI Index capability benchmarks (a gap that has shrunk roughly 5x over 24 months), while trading at valuation discounts up to 85:1 (a gap that has widened materially over the same period).
 Diagnostic question: "If capability is converging, what is price responding to?" — The answer is never "capability," and is usually a Mandate Constraint.
+Commercial-parity caveat (added 2026-04-21): Benchmark parity is not commercial parity. The 2.7-point capability gap does not translate directly into a 2.7-point commercial gap. OpenAI generates roughly $24B in annualised revenue on a global enterprise customer base with API ecosystem depth that Chinese AI labs cannot easily access; DeepSeek's commercialisation remains primarily domestic. The 85:1 discount therefore reflects both the capital market partition and a genuine (if often overstated) gap in monetisable market access. The residual attributable to partition remains, and that residual is the Mandate Discount.
 Word family:
 
 Capability Convergence (the numerator collapsing toward zero)
@@ -219,6 +233,7 @@ This section exists to prevent inadvertent authorship overclaims.
 "The Global Premium", "The Liquid Benchmark", "The Scarcity Bubble" — used as descriptive quadrant labels within the Partition Map. These are not independently coined Signal Desk terms. "Scarcity premium" is widely used in finance; "Scarcity Stack" was coined by another author in early 2026.
 "Scarcity premium" — standard finance term, widely used. Not a Signal Desk term.
 "Decoupling" — standard finance term (US/EM decoupling, etc.). Signal Desk's contribution is the specific compound Capability-Price Decoupling, not "decoupling" itself.
+"Mandate Constraint", "Capital Partition" — used descriptively within the respective word families; not independently coined. Re-verified 2026-04-21 as descriptive, not claim-bearing.
 
 Citation Hygiene (Internal Rules)
 When using a Lexicon term in a new piece:
@@ -245,6 +260,7 @@ Response taken (if any; see IP_PROTECTION_CHECKLIST.md)
 External citation count is Signal Desk's hardest impact metric — harder than subscriber count, harder than impressions.
 
 Version Log
+v0.3 · 2026-04-21 — Paper 1 submitted to SSRN. Formal academic publication of the Partition Map framework and the three flagship terms (Partition Map, Mandate Discount, Capability-Price Decoupling) in working paper "The 425× Premium and the 85:1 Discount Are the Same Trade: A Partition Framework for Pricing Chinese AI Equity Across Private and Public Markets" by Wilson L Yang (2026-04-21, SSRN). Added "Formalised in academic form" line to each of the three flagship entries. Added "SSRN working paper DOI" slot to Timestamp Chains (to be filled once DOI issued, typically 2-5 business days). Added commercial-parity caveat to Capability-Price Decoupling entry to mirror paper Section 6.1. Re-verified all three terms via Three-Search Protocol on 2026-04-21; re-verification records archived in private Verification Evidence Packet. Added "Mandate Constraint" and "Capital Partition" to the "Terms Explicitly Not Coined" section for clarity on word-family members that are descriptive rather than claim-bearing.
 v0.2 · 2026-04-20 — Audit correction. Removed "The China Discount" as a coined term (found to be pre-existing industry term). Added "The Mandate Discount" as its replacement (verified clean via three-search protocol). Added mandatory Three-Search Verification Protocol as part of Lexicon Bar. Added "Terms Explicitly Not Coined" section to prevent authorship overclaims.
 v0.1 · 2026-04-20 — Initial establishment. Three entries: Partition Map, The China Discount, The Capability-Price Decoupling. Candidate pipeline: 4 concepts. [superseded]
 
